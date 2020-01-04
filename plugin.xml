@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <label lang="de">Kundenbetreuer hinzufügen</label>
+    <label lang="en">Add Customer Assistant</label>
+
+    <version>1.0.0</version>
+    <license>MIT</license>
+    <link>https://every-websolution.com</link>
+    <author>Julian Sunten</author>
+    <compatibility minVersion="5.3.0"/>
+
+    <changelog version="1.0.0">
+        <changes lang="de">Erstveröffentlichung</changes>
+        <changes lang="en">First release</changes>
+    </changelog>
+</plugin>

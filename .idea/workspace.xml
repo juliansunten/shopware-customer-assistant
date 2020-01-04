@@ -1,0 +1,765 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="69d94f5e-224d-4ae9-9196-da7f51671c9a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/list/window.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/window.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/list/customerassistant.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/customerassistant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/controller/main.js">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="1317" column="7" lean-forward="true" selection-start-line="1317" selection-start-column="7" selection-end-line="1317" selection-end-column="7" />
+              <folding>
+                <element signature="e#6#936#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Address.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="280" column="30" selection-start-line="280" selection-start-column="20" selection-end-line="280" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/store/customerassistant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/customerassistant.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>exte</find>
+      <find>SwagProductBasic</find>
+      <find>Customer Assistant</find>
+      <find>Produ</find>
+      <find>JsCustomerAssistant</find>
+      <find>Kundenb</find>
+      <find>paddi</find>
+      <find>padding</find>
+      <find>assistant</find>
+      <find>product</find>
+      <find>top-b</find>
+      <find>customer</find>
+      <find>getCustom</find>
+      <find>getId</find>
+      <find>get</find>
+      <find>getC</find>
+      <find>getFirstn</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>JsCustomerAssistant</replace>
+      <replace>Customer</replace>
+      <replace>customer</replace>
+      <replace>Assistant</replace>
+      <replace>assistant</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Controllers/Backend/CustomerAssistant.php" />
+        <option value="$PROJECT_DIR$/Controllers/main.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/controller/customer_assistant_controller.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/view/list/window.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/app.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/view/list/assistant.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/view/detail/window.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/view/detail/customer_assistant_tab.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/store/assistant.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/model/assistant.js" />
+        <option value="$PROJECT_DIR$/Models/Assistant.php" />
+        <option value="$PROJECT_DIR$/../backupcustomerlogic/js_extend_customer/app.js" />
+        <option value="$PROJECT_DIR$/Subscriber/ExtendCustomer.php" />
+        <option value="$PROJECT_DIR$/Subscriber/AssistantSubscriber.php" />
+        <option value="$PROJECT_DIR$/Controllers/Backend/JsCustomerAssistant.php" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/store/assistant.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/view/detail/window.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/controller/main.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/controller/main.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/app.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/navigation.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-after-header.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-header.php" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/view/detail/assistant_tab.js" />
+        <option value="$PROJECT_DIR$/Components/Mailer.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/OrderSubscriber.php" />
+        <option value="$PROJECT_DIR$/Subscriber/OrderSubscriber.php" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/CustomerAssistant.php" />
+        <option value="$PROJECT_DIR$/plugin.xml" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/app.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/main.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 2.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/assistant 2.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 3.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/window 2.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/window.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 4.js" />
+        <option value="$PROJECT_DIR$/Resources/menu.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/menu.xml" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/app.js" />
+        <option value="$USER_HOME$/AppData/Local/Temp/fz3temp-2/JsCustomerRelations.php" />
+        <option value="$PROJECT_DIR$/Models/CustomerAssistant.php" />
+        <option value="$PROJECT_DIR$/Controllers/Backend/JsCustomerRelations.php" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/customer.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/store/customerassistant.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/assistant.js" />
+        <option value="$PROJECT_DIR$/Resources/services.xml" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/customerassistant.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/window.js" />
+        <option value="$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/customerassistant.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="width" value="1385" />
+    <option name="height" value="1039" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="Scope" currentSubView="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Components" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Controllers" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="Backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Models" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_assistant" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_assistant" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_assistant" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="store" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="controller" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="model" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="store" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="view" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="view" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="detail" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Resources" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="views" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="backend" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="js_customer_relations" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="view" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+              <item name="list" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="JsCustomerAssistant" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="Subscriber" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/store" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant\Resources\views\backend\js_customer_assistant\customer_extension\store" />
+      <recent name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant\Resources\views\backend\js_customer_assistant\customer_extension\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\julia\OneDrive\Desktop\JsCustomerAssistant\Resources\views\backend\js_customer_assistant\assistant_extension" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="69d94f5e-224d-4ae9-9196-da7f51671c9a" name="Default Changelist" comment="" />
+      <created>1576938930405</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576938930405</updated>
+      <workItem from="1576938932678" duration="5932000" />
+      <workItem from="1576947433280" duration="2991000" />
+      <workItem from="1576958150511" duration="4346000" />
+      <workItem from="1577037457596" duration="12000" />
+      <workItem from="1577037760247" duration="17291000" />
+      <workItem from="1577068352332" duration="180000" />
+      <workItem from="1577068551595" duration="14174000" />
+      <workItem from="1577086186817" duration="1232000" />
+      <workItem from="1577452884286" duration="11503000" />
+      <workItem from="1577473446748" duration="3218000" />
+      <workItem from="1577483064856" duration="2523000" />
+      <workItem from="1577485674300" duration="15611000" />
+      <workItem from="1577502527446" duration="7718000" />
+      <workItem from="1577575247472" duration="420000" />
+      <workItem from="1577761107437" duration="9882000" />
+      <workItem from="1577854881461" duration="1068000" />
+      <workItem from="1577855973993" duration="177000" />
+      <workItem from="1577856213789" duration="3073000" />
+      <workItem from="1577914949825" duration="18000" />
+      <workItem from="1577918199453" duration="7361000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="108730000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8937677" visible="true" weight="0.2147651" />
+      <window_info id="Structure" order="1" sideWeight="0.10623229" side_tool="true" weight="0.2751678" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.8937677" visible="true" weight="0.27919462" />
+      <window_info id="Structure" order="1" sideWeight="0.10623229" side_tool="true" weight="0.2751678" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Remote Host" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/app.js" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-head.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/header.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-after-header.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-before-wrappers.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/navigation.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/dashboard.php" />
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/theme-header.php" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/customer_extension/view/detail/assistant_tab.js" />
+    <entry file="file://$PROJECT_DIR$/../Projekte/Shopware/JsCustomerAssistant/Subscriber/OrderSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-243" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Components/Mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/OrderSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Subscriber/OrderSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/CustomerAssistant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="45" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/assistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/controller/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/assistant 2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="45" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="45" selection-start-column="26" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/window 2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 4.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/window.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/Assistant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="49" selection-start-line="49" selection-end-line="63" selection-end-column="5" />
+          <folding>
+            <element signature="e#46#78#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="12" lean-forward="true" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="37" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JsCustomerAssistant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#39#70#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/JsCustomerRelations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/Backend/JsCustomerAssistant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/CustomerAssistant.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1304">
+          <caret line="93" column="5" lean-forward="true" selection-start-line="93" selection-start-column="5" selection-end-line="93" selection-end-column="5" />
+          <folding>
+            <element signature="e#46#94#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/Backend/JsCustomerRelations.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="60" selection-start-line="14" selection-start-column="60" selection-end-line="14" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/customer.js" />
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/model/assistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="75" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/customerassistant 2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_assistant/store/assistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/services.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="43" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/assistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Tax.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret line="50" column="7" lean-forward="true" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Address.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="280" column="30" selection-start-line="280" selection-start-column="20" selection-end-line="280" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/fz3temp-2/Customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="1317" column="7" lean-forward="true" selection-start-line="1317" selection-start-column="7" selection-end-line="1317" selection-end-column="7" />
+          <folding>
+            <element signature="e#6#936#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/list/customerassistant.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/list/window.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/window.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/view/detail/customerassistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/store/customerassistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="26" lean-forward="true" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/controller/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Resources/views/backend/js_customer_relations/model/customerassistant.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

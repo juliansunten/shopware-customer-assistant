@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.3/engine/Shopware/Components/Plugin/schema/menu.xsd">
+    <entries>
+        <entry>
+            <name>JsCustomerAssistant</name>
+            <label lang="en">Edit Customer Assistants</label>
+            <label lang="de">Kundenberater verwalten</label>
+            <controller>JsCustomerAssistant</controller>
+            <action>index</action>
+            <class>sprite-application-block</class>
+            <parent identifiedBy="controller">Customer</parent>
+        </entry>
+        <entry>
+            <name>JsCustomerRelations</name>
+            <label lang="en">Customer Assistant Relations</label>
+            <label lang="de">Kundenbeziehungen (Kundenberater)</label>
+            <controller>JsCustomerRelations</controller>
+            <action>index</action>
+            <class>sprite-application-block</class>
+            <parent identifiedBy="controller">Customer</parent>
+        </entry>
+    </entries>
+</menu>
